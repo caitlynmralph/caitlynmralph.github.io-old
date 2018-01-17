@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/datavisualization/</loc>
+    <lastmod>2018-01-17T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/datavisualization/fmri/</loc>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/datavisualization/clinics/</loc>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/datavisualization/warpedtour/</loc>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/datavisualization/theoffice/</loc>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/datavisualization/vci/</loc>
+    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
   </url>
   
   <url>
@@ -19,19 +49,19 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2017-10-31T21:28:43-05:00</lastmod>
+    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
