@@ -1,62 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on Caitlyn</title>
-    <link>/writing/</link>
-    <description>Recent content in Writing on Caitlyn</description>
+    <title>Writings on Caitlyn</title>
+    <link>https://caitlynralph.github.io/writing/</link>
+    <description>Recent content in Writings on Caitlyn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2018 22:27:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2017 21:28:43 -0500</lastBuildDate>
     
-	<atom:link href="/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caitlynralph.github.io/writing/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Full Collection of Alternative Press Web Articles</title>
-      <link>/writing/ap/</link>
-      <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
-      
-      <guid>/writing/ap/</guid>
-      <description>The full collection of web articles (1200+) for Alternative Press can be found on the contributor page linked below. Includes a mix of features, interviews, listicles, and news articles.
-See them here</description>
-    </item>
     
     <item>
       <title>Example Alternative Press Feature</title>
-      <link>/writing/feature/</link>
+      <link>https://caitlynralph.github.io/writing/feature/</link>
       <pubDate>Tue, 17 Jan 2017 21:28:43 -0500</pubDate>
       
-      <guid>/writing/feature/</guid>
+      <guid>https://caitlynralph.github.io/writing/feature/</guid>
       <description>Never Shout Never talk end of an era and exciting next chapter
 Read it here</description>
     </item>
     
     <item>
       <title>Example Alternative Press Interview</title>
-      <link>/writing/interview/</link>
+      <link>https://caitlynralph.github.io/writing/interview/</link>
       <pubDate>Sun, 17 Jan 2016 21:28:43 -0500</pubDate>
       
-      <guid>/writing/interview/</guid>
+      <guid>https://caitlynralph.github.io/writing/interview/</guid>
       <description>Accomplished music video creator Matt Eastin gives invaluable advice to aspiring directors, editors
 Read it here</description>
     </item>
     
     <item>
       <title>Example Alterantive Press List</title>
-      <link>/writing/list/</link>
+      <link>https://caitlynralph.github.io/writing/list/</link>
       <pubDate>Sat, 17 Jan 2015 21:28:43 -0500</pubDate>
       
-      <guid>/writing/list/</guid>
+      <guid>https://caitlynralph.github.io/writing/list/</guid>
       <description>11 reasons why a Green Day show is like no other
 Read it here</description>
     </item>
     
     <item>
       <title>Example Alternative Press News Post</title>
-      <link>/writing/newspost/</link>
+      <link>https://caitlynralph.github.io/writing/newspost/</link>
       <pubDate>Fri, 17 Jan 2014 21:28:43 -0500</pubDate>
       
-      <guid>/writing/newspost/</guid>
+      <guid>https://caitlynralph.github.io/writing/newspost/</guid>
       <description>Frank Iero and crew involved in accident: ‘We’re pretty banged up but miraculously alive’ - UPDATED
 Read it here</description>
     </item>

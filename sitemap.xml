@@ -3,165 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/datavisualization/theoffice/</loc>
-    <lastmod>2019-01-17T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2018-01-18T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datavisualization/</loc>
-    <lastmod>2018-01-17T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thesis/</loc>
-    <lastmod>2018-01-17T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/musicindustry/</loc>
-    <lastmod>2018-01-17T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/</loc>
-    <lastmod>2018-01-17T22:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/musicindustry/altpress/</loc>
-    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/writing/ap/</loc>
-    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datavisualization/clinics/</loc>
-    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thesis/overview/</loc>
-    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/blogdown/</loc>
-    <lastmod>2018-01-17T21:28:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/musicindustry/apmas/</loc>
+    <loc>https://caitlynralph.github.io/musicindustry/apmas/</loc>
     <lastmod>2017-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing/feature/</loc>
+    <loc>https://caitlynralph.github.io/writing/feature/</loc>
     <lastmod>2017-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/datavisualization/warpedtour/</loc>
+    <loc>https://caitlynralph.github.io/datavisualization/warpedtour/</loc>
     <lastmod>2017-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/datavisualization/fmri/</loc>
+    <loc>https://caitlynralph.github.io/datavisualization/fmri/</loc>
     <lastmod>2016-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/musicindustry/aptv/</loc>
+    <loc>https://caitlynralph.github.io/musicindustry/aptv/</loc>
     <lastmod>2016-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing/interview/</loc>
+    <loc>https://caitlynralph.github.io/writing/interview/</loc>
     <lastmod>2016-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://caitlynralph.github.io/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/datavisualization/vci/</loc>
+    <loc>https://caitlynralph.github.io/datavisualization/vci/</loc>
     <lastmod>2015-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing/list/</loc>
+    <loc>https://caitlynralph.github.io/writing/list/</loc>
     <lastmod>2015-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/writing/newspost/</loc>
+    <loc>https://caitlynralph.github.io/writing/newspost/</loc>
     <lastmod>2014-01-17T21:28:43-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-01-17T21:28:43-05:00</lastmod>
+    <loc>https://caitlynralph.github.io/categories/</loc>
+    <lastmod>2017-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-01-17T21:28:43-05:00</lastmod>
+    <loc>https://caitlynralph.github.io/</loc>
+    <lastmod>2017-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-01-17T21:28:43-05:00</lastmod>
+    <loc>https://caitlynralph.github.io/categories/</loc>
+    <lastmod>2017-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://caitlynralph.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://caitlynralph.github.io/datavisualization/</loc>
+    <lastmod>2017-01-17T21:28:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caitlynralph.github.io/musicindustry/</loc>
+    <lastmod>2017-01-17T21:28:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caitlynralph.github.io/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://caitlynralph.github.io/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://caitlynralph.github.io/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://caitlynralph.github.io/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://caitlynralph.github.io/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://caitlynralph.github.io/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://caitlynralph.github.io/writing/</loc>
+    <lastmod>2017-01-17T21:28:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
