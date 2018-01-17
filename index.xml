@@ -31,5 +31,18 @@ You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>(407) 415 - 3082 | caitlyn.ralph14@ncf.edu
+EDUCATION New College of Florida: The Honors College of Florida Bachelor of Arts in Computer Science
+expected May 2018
+Honors Thesis in Data Storytelling/Visualization Cleveland State University Spring 2017 National Student Exchange
+RELEVANT COURSEWORK    Technical Interdiscplinary     - Natural Language Processing (Spring 2018): Will study how computer programs extract meaning from human-language text, web pages, and other less-structured information.</description>
+    </item>
+    
   </channel>
 </rss>
