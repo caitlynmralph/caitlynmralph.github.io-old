@@ -23,6 +23,16 @@ See it here</description>
     </item>
     
     <item>
+      <title>Full Collection of Alternative Press Web Articles</title>
+      <link>/writing/ap/</link>
+      <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
+      
+      <guid>/writing/ap/</guid>
+      <description>The full collection of web articles (1200+) for Alternative Press can be found on the contributor page linked below. Includes a mix of features, interviews, listicles, and news articles. Examples of each are spotlighted below.
+See them here</description>
+    </item>
+    
+    <item>
       <title>How far is too far?</title>
       <link>/datavisualization/clinics/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
@@ -39,6 +49,16 @@ Catalyzed work on this impactful essay, conducted weeks of background research t
       
       <guid>/blog/ipsum/</guid>
       <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+    </item>
+    
+    <item>
+      <title>Example Alternative Press Feature</title>
+      <link>/writing/feature/</link>
+      <pubDate>Tue, 17 Jan 2017 21:28:43 -0500</pubDate>
+      
+      <guid>/writing/feature/</guid>
+      <description>Never Shout Never talk end of an era and exciting next chapter
+Read it here</description>
     </item>
     
     <item>
@@ -63,6 +83,16 @@ See it here</description>
     </item>
     
     <item>
+      <title>Example Alternative Press Interview</title>
+      <link>/writing/interview/</link>
+      <pubDate>Sun, 17 Jan 2016 21:28:43 -0500</pubDate>
+      
+      <guid>/writing/interview/</guid>
+      <description>Accomplished music video creator Matt Eastin gives invaluable advice to aspiring directors, editors
+Read it here</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -81,6 +111,26 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <guid>/datavisualization/vci/</guid>
       <description>Summer 2015 The Mind Research Network, Albuquerque, New Mexico
  Conducted various exploratory analyses to research if diffusion based white matter imaging could be a biomarker for the neurodegenerative disease Vascular Cognitive Impairment (the second leading cause of dementia behind Alzheimer&amp;rsquo;s). The goal was to analyze diffusion tensor imaging&amp;rsquo;s (DTI) fractional anisotropy (FA), axial diffusivity (AD), and radial diffusivity (RD) to find the most descriptive diffusion property in classifying subjects and the most affected brain regions in VCI patients.</description>
+    </item>
+    
+    <item>
+      <title>Example Alterantive Press List</title>
+      <link>/writing/list/</link>
+      <pubDate>Sat, 17 Jan 2015 21:28:43 -0500</pubDate>
+      
+      <guid>/writing/list/</guid>
+      <description>11 reasons why a Green Day show is like no other
+Read it here</description>
+    </item>
+    
+    <item>
+      <title>Example Alternative Press News Post</title>
+      <link>/writing/newspost/</link>
+      <pubDate>Fri, 17 Jan 2014 21:28:43 -0500</pubDate>
+      
+      <guid>/writing/newspost/</guid>
+      <description>Frank Iero and crew involved in accident: ‘We’re pretty banged up but miraculously alive’ - UPDATED
+Read it here</description>
     </item>
     
     <item>
