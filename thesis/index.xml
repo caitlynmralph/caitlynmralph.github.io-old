@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honors Thesis in Data Visualization/Storytelling on Caitlyn</title>
+    <link>/thesis/</link>
+    <description>Recent content in Honors Thesis in Data Visualization/Storytelling on Caitlyn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2018 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="/thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview</title>
+      <link>/thesis/overview/</link>
+      <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
+      
+      <guid>/thesis/overview/</guid>
+      <description>The thesis, still being completed, is chronicling the creation of a visual essay to display the principles of data visualization, visual storytelling, and data journalism. Alongside describing the technicalities of coding a visual essay, the thesis is also addressing the state of the art for this emerging field, which combines data visualization/science and the dissemination of information to the public sphere. The essay topic gathers data on the rise of one of the UK’s biggest bands in an attempt to codify their story to success, quantitatively and visually.</description>
+    </item>
+    
+  </channel>
+</rss>
