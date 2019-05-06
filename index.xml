@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caitlyn</title>
-    <link>/</link>
+    <link>https://caitlynralph.github.io/</link>
     <description>Recent content on Caitlyn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jan 2019 21:28:43 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caitlynralph.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Office Dialogue in Five Charts</title>
-      <link>/datavisualization/theoffice/</link>
+      <link>https://caitlynralph.github.io/datavisualization/theoffice/</link>
       <pubDate>Thu, 17 Jan 2019 21:28:43 -0500</pubDate>
       
-      <guid>/datavisualization/theoffice/</guid>
+      <guid>https://caitlynralph.github.io/datavisualization/theoffice/</guid>
       <description>Summer 2017 The Pudding, in conjunction with Russell Goldenberg
 Pinpointed an interesting topic in pop culture, created a dataset through web scraping in Python, worked with the database in SQL, drew interesting conclusions, programmed a Markov Chain text simulator, conducted sentiment analysis on large swaths of text data, mocked up design ideas, and worked with Russell Goldenberg of The Pudding to make the graphics come to life.
 See it here</description>
@@ -24,78 +24,78 @@ See it here</description>
     
     <item>
       <title>Alternative Press</title>
-      <link>/musicindustry/altpress/</link>
+      <link>https://caitlynralph.github.io/musicindustry/altpress/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
       
-      <guid>/musicindustry/altpress/</guid>
+      <guid>https://caitlynralph.github.io/musicindustry/altpress/</guid>
       <description>Freelancer: June 2017 – Present Digital Content Assistant &amp; Head News Poster: January 2017 – June 2017 Head News Poster: October 2016 – December 2016 News Poster/Contributor: December 2015 – September 2016
  Helped Digital Content Editor run AP website in terms of content and analytics (averaged 100,000+ daily users) Found news and received press releases to write articles and post on the AP website (1200+ articles) Handled social media sharing, contributed to longform and print features, worked in website backend, and engrossed in alternative music, style and culture Oversaw the AP Poll for print issue: Sought and edited reader and artist responses to a poll question monthly  </description>
     </item>
     
     <item>
       <title>Full Collection of Alternative Press Web Articles</title>
-      <link>/writing/ap/</link>
+      <link>https://caitlynralph.github.io/writing/ap/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
       
-      <guid>/writing/ap/</guid>
+      <guid>https://caitlynralph.github.io/writing/ap/</guid>
       <description>The full collection of web articles (1200+) for Alternative Press can be found on the contributor page linked below. Includes a mix of features, interviews, listicles, and news articles.
 See them here</description>
     </item>
     
     <item>
       <title>How far is too far?</title>
-      <link>/datavisualization/clinics/</link>
+      <link>https://caitlynralph.github.io/datavisualization/clinics/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
       
-      <guid>/datavisualization/clinics/</guid>
+      <guid>https://caitlynralph.github.io/datavisualization/clinics/</guid>
       <description>An analysis of driving times to abortion clinics in the US. Summer 2017 The Pudding, in conjunction with Russell Goldenberg and Amber Thomas
 Catalyzed work on this impactful essay, conducted weeks of background research to grasp such a complex and controversial topic, reached out and interviewed experts in the field, manually created complete datasets of abortion clinics locations and procedures in 12 states, and teamed up Russell Goldenberg and Amber Thomas of The Pudding to complete the dataset.</description>
     </item>
     
     <item>
       <title>Overview</title>
-      <link>/thesis/overview/</link>
+      <link>https://caitlynralph.github.io/thesis/overview/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
       
-      <guid>/thesis/overview/</guid>
+      <guid>https://caitlynralph.github.io/thesis/overview/</guid>
       <description>The thesis, still being completed, is chronicling the creation of a visual essay to display the principles of data visualization, visual storytelling, and data journalism. Alongside describing the technicalities of coding a visual essay, the thesis is also addressing the state of the art for this emerging field, which combines data visualization/science and the dissemination of information to the public sphere. The essay topic gathers data on the rise of one of the UK’s biggest bands in an attempt to codify their story to success, quantitatively and visually.</description>
     </item>
     
     <item>
       <title>R Blogdown &#43; Hugo</title>
-      <link>/blog/blogdown/</link>
+      <link>https://caitlynralph.github.io/blog/blogdown/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
       
-      <guid>/blog/blogdown/</guid>
+      <guid>https://caitlynralph.github.io/blog/blogdown/</guid>
       <description>Coming soon.</description>
     </item>
     
     <item>
       <title>Alternative Press Music Awards</title>
-      <link>/musicindustry/apmas/</link>
+      <link>https://caitlynralph.github.io/musicindustry/apmas/</link>
       <pubDate>Tue, 17 Jan 2017 21:28:43 -0500</pubDate>
       
-      <guid>/musicindustry/apmas/</guid>
+      <guid>https://caitlynralph.github.io/musicindustry/apmas/</guid>
       <description>Digital Assistant Columbus and Cleveland, Ohio July 2016/July 2017
  Called out to help with Alternative Press’ annual music awards twice, streamed on Amazon Music and Twitch channels Worked with Head News Writer to post award winners and news for the 2016 awards, in charge of posting all performances as they happened for the 2017 awards, and assisted with post-show coverage Aided with general tasks leading up to the event, including dressing room, rider, and green room setup; press activations; merchandise organization Became comfortable working with artist managers, artist handlers, and musicians themselves 2016 stats: Trended worldwide on Twitter and Facebook for over 72 hours, reached 24 million people across social media platforms, and streamed live to over a half-million viewers  </description>
     </item>
     
     <item>
       <title>Example Alternative Press Feature</title>
-      <link>/writing/feature/</link>
+      <link>https://caitlynralph.github.io/writing/feature/</link>
       <pubDate>Tue, 17 Jan 2017 21:28:43 -0500</pubDate>
       
-      <guid>/writing/feature/</guid>
+      <guid>https://caitlynralph.github.io/writing/feature/</guid>
       <description>Never Shout Never talk end of an era and exciting next chapter
 Read it here</description>
     </item>
     
     <item>
       <title>How have Warped Tour’s genres evolved over time?</title>
-      <link>/datavisualization/warpedtour/</link>
+      <link>https://caitlynralph.github.io/datavisualization/warpedtour/</link>
       <pubDate>Tue, 17 Jan 2017 21:28:43 -0500</pubDate>
       
-      <guid>/datavisualization/warpedtour/</guid>
+      <guid>https://caitlynralph.github.io/datavisualization/warpedtour/</guid>
       <description>Summer 2017 The Pudding
 Pinpointed another interesting topic in pop culture, created a dataset through web scraping in Python, worked with the database in SQL, drew interesting conclusions, mocked up design ideas, coded a visualization in D3 with design assistance from Matt Daniels of The Pudding.
 See it here</description>
@@ -103,20 +103,20 @@ See it here</description>
     
     <item>
       <title>A Novel Approach to Analyzing RS-fMRI Data</title>
-      <link>/datavisualization/fmri/</link>
+      <link>https://caitlynralph.github.io/datavisualization/fmri/</link>
       <pubDate>Sun, 17 Jan 2016 21:28:43 -0500</pubDate>
       
-      <guid>/datavisualization/fmri/</guid>
+      <guid>https://caitlynralph.github.io/datavisualization/fmri/</guid>
       <description>Summer 2016 The Mind Research Network, Albuquerque, New Mexico
  Coded a new algorithm for a more descriptive temporal analysis of fMRI images in the resting-state. The goal was to write a method that provided researchers more information than traditional analysis methods, such as Independent Component Analysis, currently tell us about neuroimages. Also programmed a way to visualize the results of this analysis algorithm as clearly and descriptively as possible. Presented findings to staff at the Mind Research Network and the Lovelace Respiratory Research Institute.</description>
     </item>
     
     <item>
       <title>Alternative Press TV: Welcome To Rockville</title>
-      <link>/musicindustry/aptv/</link>
+      <link>https://caitlynralph.github.io/musicindustry/aptv/</link>
       <pubDate>Sun, 17 Jan 2016 21:28:43 -0500</pubDate>
       
-      <guid>/musicindustry/aptv/</guid>
+      <guid>https://caitlynralph.github.io/musicindustry/aptv/</guid>
       <description>April 2016 Jacksonville, FL
 Directed APTV segments at Welcome To Rockville—a sold-out, weekend-long music festival attended by over 50,000 people Set up the APTV lounge in the media area, stayed in touch with tour managers, handled interview schedule for the day, and provided bands directorial notes for the interviews.
 See an example piece here</description>
@@ -124,20 +124,20 @@ See an example piece here</description>
     
     <item>
       <title>Example Alternative Press Interview</title>
-      <link>/writing/interview/</link>
+      <link>https://caitlynralph.github.io/writing/interview/</link>
       <pubDate>Sun, 17 Jan 2016 21:28:43 -0500</pubDate>
       
-      <guid>/writing/interview/</guid>
+      <guid>https://caitlynralph.github.io/writing/interview/</guid>
       <description>Accomplished music video creator Matt Eastin gives invaluable advice to aspiring directors, editors
 Read it here</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://caitlynralph.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://caitlynralph.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -145,40 +145,40 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Diffusion-Based White Matter Imaging in VCI</title>
-      <link>/datavisualization/vci/</link>
+      <link>https://caitlynralph.github.io/datavisualization/vci/</link>
       <pubDate>Sat, 17 Jan 2015 21:28:43 -0500</pubDate>
       
-      <guid>/datavisualization/vci/</guid>
+      <guid>https://caitlynralph.github.io/datavisualization/vci/</guid>
       <description>Summer 2015 The Mind Research Network, Albuquerque, New Mexico
  Conducted various exploratory analyses to research if diffusion based white matter imaging could be a biomarker for the neurodegenerative disease Vascular Cognitive Impairment (the second leading cause of dementia behind Alzheimer&amp;rsquo;s). The goal was to analyze diffusion tensor imaging&amp;rsquo;s (DTI) fractional anisotropy (FA), axial diffusivity (AD), and radial diffusivity (RD) to find the most descriptive diffusion property in classifying subjects and the most affected brain regions in VCI patients.</description>
     </item>
     
     <item>
       <title>Example Alterantive Press List</title>
-      <link>/writing/list/</link>
+      <link>https://caitlynralph.github.io/writing/list/</link>
       <pubDate>Sat, 17 Jan 2015 21:28:43 -0500</pubDate>
       
-      <guid>/writing/list/</guid>
+      <guid>https://caitlynralph.github.io/writing/list/</guid>
       <description>11 reasons why a Green Day show is like no other
 Read it here</description>
     </item>
     
     <item>
       <title>Example Alternative Press News Post</title>
-      <link>/writing/newspost/</link>
+      <link>https://caitlynralph.github.io/writing/newspost/</link>
       <pubDate>Fri, 17 Jan 2014 21:28:43 -0500</pubDate>
       
-      <guid>/writing/newspost/</guid>
+      <guid>https://caitlynralph.github.io/writing/newspost/</guid>
       <description>Frank Iero and crew involved in accident: ‘We’re pretty banged up but miraculously alive’ - UPDATED
 Read it here</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>/about/</link>
+      <link>https://caitlynralph.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://caitlynralph.github.io/about/</guid>
       <description>(407) 415 - 3082 | caitlyn.ralph14@ncf.edu
 EDUCATION New College of Florida: The Honors College of Florida Bachelor of Arts in Computer Science Honors Thesis in Data Storytelling/Visualization expected May 2018
 Cleveland State University National Student Exchange Spring 2017
