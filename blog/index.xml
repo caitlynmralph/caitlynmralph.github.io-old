@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Caitlyn</title>
-    <link>https://caitlynralph.github.io/blog/</link>
+    <link>https://caitlynmralph.github.io/blog/</link>
     <description>Recent content in Blog on Caitlyn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jan 2018 22:27:21 -0500</lastBuildDate>
     
-	<atom:link href="https://caitlynralph.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://caitlynmralph.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R Blogdown &#43; Hugo</title>
-      <link>https://caitlynralph.github.io/blog/blogdown/</link>
+      <link>https://caitlynmralph.github.io/blog/blogdown/</link>
       <pubDate>Wed, 17 Jan 2018 21:28:43 -0500</pubDate>
       
-      <guid>https://caitlynralph.github.io/blog/blogdown/</guid>
+      <guid>https://caitlynmralph.github.io/blog/blogdown/</guid>
       <description>Coming soon.</description>
     </item>
     
